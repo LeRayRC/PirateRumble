@@ -5,14 +5,14 @@ using UnityEngine;
 public class GameController : MonoBehaviour
 {
     // Start is called before the first frame update
-    public List<Character> team1List = new List<Character>();
-    public List<Character> team2List = new List<Character>();
+    public List<CharacterController> pirateTeam_ = new List<CharacterController>();
+    public List<CharacterController> marineTeam_ = new List<CharacterController>();
     public bool characterPlaying_;
     void Start()
     {
         characterPlaying_ = false;
-        team1List.Insert(0,new Character());
-        team2List.Insert(0,new Character());
+        // pirateTeam_.Insert(0,new CharacterController());
+        // marineTeam_.Insert(0,new CharacterController());
     }
 
     // Update is called once per frame
@@ -20,30 +20,32 @@ public class GameController : MonoBehaviour
     {
         //Update Initiatives
         if(!characterPlaying_){
-            for(int i=1;i<team1List.Count && !characterPlaying_;i++){
-                if(team1List[i].initiative_ >= 100 && !characterPlaying_){
+            for(int i=0;i<pirateTeam_.Count;i++){
+                if(pirateTeam_[i].pirate_.initiative_ >= 100 && !characterPlaying_){
                     characterPlaying_=true;
-                    team1List[i].playing_ = true;
-                    team1List[i].initiative_ = 0.0f;
-                    Debug.Log("Team 1 - Character "+ i + " playing");
+                    pirateTeam_[i].pirate_.playing_ = true;
+                    pirateTeam_[i].pirate_.initiative_ = 0.0f;
+                    pirateTeam_[i].charState_ = CharacterController.CharacterState.SelectingEnemy;
+                    Debug.Log("Team 1 -  " + pirateTeam_[i].name + " playing");
                     //Communicate that this player is the one playing
                 }else{
-                    team1List[i].initiative_ += team1List[i].speed_ * Time.deltaTime;
+                    pirateTeam_[i].pirate_.initiative_ += pirateTeam_[i].pirate_.speed_ * Time.deltaTime;
                 }
             }
-            for(int i=1;i<team2List.Count && !characterPlaying_;i++){
-                if(team2List[i].initiative_ >= 100 && !characterPlaying_){
+            for(int i=0;i<marineTeam_.Count;i++){
+                if(marineTeam_[i].marine_.initiative_ >= 100 && !characterPlaying_){
                     characterPlaying_=true;
-                    team2List[i].initiative_ = 0.0f;
-                    team2List[i].playing_ = true;
-                    Debug.Log("Team 2 - Character " + i + " playing");
+                    marineTeam_[i].marine_.initiative_ = 0.0f;
+                    marineTeam_[i].marine_.playing_ = true;
+                    marineTeam_[i].charState_ = CharacterController.CharacterState.SelectingEnemy;
+                    Debug.Log("Team 2 " + marineTeam_[i].name +  " playing");
                     //Communicate that this player is the one playing
                 }else{
-                    team2List[i].initiative_ += team2List[i].speed_ * Time.deltaTime;
+                    marineTeam_[i].marine_.initiative_ += marineTeam_[i].marine_.speed_ * Time.deltaTime;
                 }
             }
         }else{
-            Debug.Log("Finishing turn");
+            // Debug.Log("Finishing turn");
             // characterPlaying_=false;
         }
     }
