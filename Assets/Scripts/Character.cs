@@ -10,6 +10,8 @@ public class Character
         public int armor_;
         public int conqueror_;
     }
+    public int health_;
+    public int totalHealth_;
     public int atk_;
     public int def_;
     public float speed_;
@@ -21,7 +23,9 @@ public class Character
     public bool playing_;
     public float turnTimer_;
     public Character(){}
-    public Character(int atk, int def, float speed, float critChance, ClassType classType){
+    public Character(int health, int atk, int def, float speed, float critChance, ClassType classType){
+        health_ = health;
+        totalHealth_ = health;
         atk_ = atk;
         def_ = def;
         speed_ = speed;

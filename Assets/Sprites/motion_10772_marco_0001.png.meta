@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: 2a520f76ef16021458bd94f5ea65118a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 815
+        width: 109
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e9db35bbdaf847a083c018fc4b0b5
+      internalID: -173843086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 823
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e42a72414194be46aaccd46f9a85dfd
+      internalID: -1594992357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 823
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f151cf06be86e44a2f224c81cf328c
+      internalID: -153863503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 823
+        width: 107
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51c45cb7272714b8c3e8d8828f7e46
+      internalID: -1735293569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 823
+        width: 110
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a97d252ca03c40b0bf9766ea29b47
+      internalID: -26505249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 823
+        width: 111
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf98a580f537d84288360325d14182e
+      internalID: -1891355996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 823
+        width: 111
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf064ef193097440965614951562758
+      internalID: -745408169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_7
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 823
+        width: 111
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9710c742d64f29b4f950acc51cd716a3
+      internalID: 1533463306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 659
+        width: 82
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331002746197f7f49aa146007f2db331
+      internalID: 664149283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 659
+        width: 83
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b5d775a40cce4c8f937cc85fcc365
+      internalID: -1599160117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 623
+        width: 115
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db46c078d2c0b44b62cf16078bc78c
+      internalID: -152938997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 780
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc135fa2667e44ba9aa779221cba49
+      internalID: 772791555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 698
+        width: 219
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc86d6bcd3eb541933570ed7ef0cce
+      internalID: 1026846304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 750
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43acf930307fc4a8b393a947ddf22e
+      internalID: 765739558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 758
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66da94705b35a84ba821a390d01f991
+      internalID: -1602300677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 615
+        width: 108
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ca6bcaba9cc743853ae21d2166bcf
+      internalID: 195147550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 615
+        width: 111
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e506d36fb0239074db2a3cd4e6531e57
+      internalID: 1370121514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 758
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0db72e0194aac48a328ceee130744a
+      internalID: 1587038493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_18
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 722
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4bb2e2f6ba86a4897df4966467498b
+      internalID: -1869311623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 713
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e21427032a574d8a45691e76606e7
+      internalID: 1730002675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 697
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae576f37444eb3428ea294ef64eb90f
+      internalID: -409629809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 659
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f472e36dde3945b779dde9a51b39e
+      internalID: -562523613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_22
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 625
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fe4db781baf049a9083ab3abf9413
+      internalID: -1688311231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 647
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae18bf16e77f6c24996f255765c552f9
+      internalID: 1271942183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 586
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c149488a32ac744ea15ea94b956ecde
+      internalID: 1769065455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 341
+        width: 179
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6f1f472ac7fb4b8e9aff34be49579
+      internalID: -1708143682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 417
+        width: 120
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7806433101db5946864780265be31af
+      internalID: 1640460277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 493
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e22f49ddb04b499c59f907576b047
+      internalID: 860848807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_28
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 341
+        width: 184
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029378050e922b44b855aafb645171a6
+      internalID: -1219119991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_29
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 343
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6eb8b39406acb40977ed4ae66cd98b
+      internalID: -265812142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 462
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d2bab3f384084682ed6258f0ab10f
+      internalID: -469015430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 470
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85144bbbb9bc5044793ea720061e06d2
+      internalID: -579354320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_32
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 449
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c13445a2700844a98be72ab16afe46
+      internalID: -2086589532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 432
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8c6f8021d92c45830d76d6a862934
+      internalID: -467032946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_34
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 402
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef9edd77c5463a4fbbd190aaa1ddaa4
+      internalID: 1468840644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_35
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 336
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e486085c585e704f887e746f97f9e3a
+      internalID: -1721844238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 330
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da17d37083f08342943662207ce03d9
+      internalID: -119768909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 273
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574208ba9d73414aa2bcc40e0559f30
+      internalID: 1293082721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_38
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 344
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9690d314dbe01b14db5eeefcdd948591
+      internalID: 1014983468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd0e1a000680e4689f51c0b363587f
+      internalID: -156400091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 200
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf75472062bff4796001baea70bf18
+      internalID: 689359089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 197
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494764d97c85bd4b893577293982d87
+      internalID: 2006695269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 228
+        width: 192
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e85e3f79c1d684986c6a4112242fe6
+      internalID: -923009143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 251
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcf174a7e26e1b4ab2c5264d62cb3c6
+      internalID: 461500399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_44
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 266
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2904581f3c5344caf6d6125bbba0ca
+      internalID: 498769366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf90cf0e84246d4a8e57b487b38c0e3
+      internalID: -1116608746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 77
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464ef94ca5908041a1a907d9264e9cf
+      internalID: 57411403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_47
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 120
+        width: 194
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9240e230bd3fe49939dc59c2fde8f2
+      internalID: 641945975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 217
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a678736e4171642b3aa3c9a928d00e
+      internalID: -749584612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_49
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 176
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45feb14da189e4a479477a0ff085acd2
+      internalID: -2082694254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_50
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 201
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20c8c548545d14ea523f4996550c03
+      internalID: 2045437064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_51
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 184
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96be3160e495543a5595edf4ed17f2
+      internalID: 310841580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 189
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d5306e2640eb4ab7fe00c533d3c6b
+      internalID: 1994070331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 111
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9912bbce1ca243adfacb66428b8fe
+      internalID: -819613037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_54
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 193
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18472cb93839f7b4f96882a2ee6157d4
+      internalID: -1725108741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042742e501bf82c4e9dbe0149f2c793c
+      internalID: -1940793905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 117
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ecfaca74b0d9e44987ab7468682cac
+      internalID: -2121750047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 77
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736971f5410da50438dbdc3ddb0320d4
+      internalID: -1785934547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 168
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be80c7557598494aa8340ccbd01169d
+      internalID: 1444150750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_59
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 4
+        width: 55
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234090cdc19fb4045ae3bd38f3b113e8
+      internalID: 1361156672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_60
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06230fb099c754985eb8008f32334c
+      internalID: -68264007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_61
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4
+        width: 53
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0588e542a9d765143b129b7c499ae56e
+      internalID: 1111895529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_62
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 3
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af93173505af85469c896731ed9787e
+      internalID: -1539517891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361ba77683133c42aa399815755a7e3
+      internalID: 2022645231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_64
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 73
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ab84dd4ade634e90f68bdf025cc30
+      internalID: 992597576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_65
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4
+        width: 192
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756c641fbed9a946a2be204647f9f79
+      internalID: -1422901412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10772_marco_0001_66
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 54
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8737f969f4f6a54f81a268511841573
+      internalID: 334749128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_10772_marco_0001_37: 1293082721
+      motion_10772_marco_0001_13: 765739558
+      motion_10772_marco_0001_65: -1422901412
+      motion_10772_marco_0001_14: -1602300677
+      motion_10772_marco_0001_35: -1721844238
+      motion_10772_marco_0001_2: -153863503
+      motion_10772_marco_0001_4: -26505249
+      motion_10772_marco_0001_58: 1444150750
+      motion_10772_marco_0001_40: 689359089
+      motion_10772_marco_0001_42: -923009143
+      motion_10772_marco_0001_38: 1014983468
+      motion_10772_marco_0001_6: -745408169
+      motion_10772_marco_0001_60: -68264007
+      motion_10772_marco_0001_3: -1735293569
+      motion_10772_marco_0001_63: 2022645231
+      motion_10772_marco_0001_15: 195147550
+      motion_10772_marco_0001_29: -265812142
+      motion_10772_marco_0001_48: -749584612
+      motion_10772_marco_0001_33: -467032946
+      motion_10772_marco_0001_1: -1594992357
+      motion_10772_marco_0001_50: 2045437064
+      motion_10772_marco_0001_8: 664149283
+      motion_10772_marco_0001_25: -1708143682
+      motion_10772_marco_0001_20: -409629809
+      motion_10772_marco_0001_39: -156400091
+      motion_10772_marco_0001_18: -1869311623
+      motion_10772_marco_0001_26: 1640460277
+      motion_10772_marco_0001_52: 1994070331
+      motion_10772_marco_0001_24: 1769065455
+      motion_10772_marco_0001_56: -2121750047
+      motion_10772_marco_0001_12: 1026846304
+      motion_10772_marco_0001_7: 1533463306
+      motion_10772_marco_0001_46: 57411403
+      motion_10772_marco_0001_54: -1725108741
+      motion_10772_marco_0001_45: -1116608746
+      motion_10772_marco_0001_19: 1730002675
+      motion_10772_marco_0001_43: 461500399
+      motion_10772_marco_0001_17: 1587038493
+      motion_10772_marco_0001_62: -1539517891
+      motion_10772_marco_0001_10: -152938997
+      motion_10772_marco_0001_47: 641945975
+      motion_10772_marco_0001_32: -2086589532
+      motion_10772_marco_0001_34: 1468840644
+      motion_10772_marco_0001_41: 2006695269
+      motion_10772_marco_0001_57: -1785934547
+      motion_10772_marco_0001_31: -579354320
+      motion_10772_marco_0001_61: 1111895529
+      motion_10772_marco_0001_64: 992597576
+      motion_10772_marco_0001_5: -1891355996
+      motion_10772_marco_0001_23: 1271942183
+      motion_10772_marco_0001_36: -119768909
+      motion_10772_marco_0001_21: -562523613
+      motion_10772_marco_0001_53: -819613037
+      motion_10772_marco_0001_27: 860848807
+      motion_10772_marco_0001_0: -173843086
+      motion_10772_marco_0001_30: -469015430
+      motion_10772_marco_0001_55: -1940793905
+      motion_10772_marco_0001_49: -2082694254
+      motion_10772_marco_0001_11: 772791555
+      motion_10772_marco_0001_66: 334749128
+      motion_10772_marco_0001_44: 498769366
+      motion_10772_marco_0001_9: -1599160117
+      motion_10772_marco_0001_22: -1688311231
+      motion_10772_marco_0001_28: -1219119991
+      motion_10772_marco_0001_59: 1361156672
+      motion_10772_marco_0001_16: 1370121514
+      motion_10772_marco_0001_51: 310841580
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

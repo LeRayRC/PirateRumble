@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: affaac9179dc2154b84643d4ad6a4777
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 833
+        width: 106
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e40d0a1e760745a8fbb7aa3b45b82
+      internalID: 615528551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 833
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95227993a9db5a479c99227af270023
+      internalID: 2110393860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 833
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d81de2215824734ab253e8532b65a8c
+      internalID: 1289734412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 833
+        width: 109
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0dcd3e39d1af45831db54e02681b6
+      internalID: -1641699648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 833
+        width: 116
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa327942157654b9fa88d07d05bca8
+      internalID: -276760209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 833
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1fd7d173405346b20ef541cb00f55
+      internalID: 1463557942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 109
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ec858f89082a46813745a1d912020
+      internalID: -1132370165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 833
+        width: 106
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2d18f0f39f724db13b770e89c4aed
+      internalID: -1207786506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 650
+        width: 146
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912665f7ad3299a48ab90379fa2aa083
+      internalID: -383033520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 654
+        width: 178
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8d6ea37357f24388061b5184e6fe6
+      internalID: 608869081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 670
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9811c2c244202048b8a646f568aecfa
+      internalID: -59359868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 670
+        width: 149
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c6021d7ab38474dbd936eb44308264
+      internalID: -1480043472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 641
+        width: 109
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60010ef6ece29dd4e8fdc614485c199d
+      internalID: -1010561486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 641
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a5db2fb8ef5c4c819f43416b69285
+      internalID: 318442153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 551
+        width: 170
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f120b4a674fd0a4aaa8c23ee01334b5
+      internalID: 1135536718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 551
+        width: 220
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67942195bf51c664f8445a73150a8e3d
+      internalID: 1303063975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 554
+        width: 310
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03120a3ea194c54f86b44d8c21d5163
+      internalID: -833588505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_17
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 502
+        width: 26
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c52b2ec1920464d997e4ca007778d5
+      internalID: -1950334908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 498
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be2eb5f4c215b479f5911e6fb5d686
+      internalID: -1222826752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 525
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3905dac4e3431e40bef7ee5c676811f
+      internalID: -2003918151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa841f2d429d24fa62fe7144b31d40
+      internalID: -517431399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 302
+        width: 149
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c802ab66336e99e4586a9048097ff591
+      internalID: 1993310398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 486
+        width: 295
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24909367bb6a6b4cb6fb28a12aa37d4
+      internalID: -2120012139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 300
+        width: 152
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e10de94f82fe448bf9fb759f725048
+      internalID: 961665899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 296
+        width: 62
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28881a2a9752659438c64dddba9d0316
+      internalID: -795644641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 300
+        width: 50
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3b056403a9842468042e94a3da24ce
+      internalID: 1520328735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 208
+        width: 233
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f25a6df0d949c4f83eefd83ce4777b
+      internalID: -2114593957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_27
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 392
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d167a5e44057044bd14accfa278e26
+      internalID: 389551940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 202
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6173c723c842d7488ecf82ce81f30b5
+      internalID: 789448943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 16
+        width: 248
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d474505ef71c643b2234d76160fe77
+      internalID: 1635632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_30
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 218
+        width: 272
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010e14a3006eca4888c743f91a61aee
+      internalID: -1171088077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 127
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e7fdf28eb4b149aa89805522b36e8
+      internalID: 634323078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 26
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e75b9966c09d489868ac5a05bb828
+      internalID: 687870290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 26
+        width: 139
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e3d74138e95514c848112b8e2328a4
+      internalID: -481655933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1001_pirate_king_luffy_0001_34
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 26
+        width: 273
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159f464304178c4ea0689e88efdb30e
+      internalID: -1700314815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9426ff2244ee69c40babfbe9282eb94b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      motion_1001_pirate_king_luffy_0001_10: -59359868
+      motion_1001_pirate_king_luffy_0001_5: 1463557942
+      motion_1001_pirate_king_luffy_0001_8: -383033520
+      motion_1001_pirate_king_luffy_0001_12: -1010561486
+      motion_1001_pirate_king_luffy_0001_29: 1635632185
+      motion_1001_pirate_king_luffy_0001_20: -517431399
+      motion_1001_pirate_king_luffy_0001_30: -1171088077
+      motion_1001_pirate_king_luffy_0001_31: 634323078
+      motion_1001_pirate_king_luffy_0001_0: 615528551
+      motion_1001_pirate_king_luffy_0001_7: -1207786506
+      motion_1001_pirate_king_luffy_0001_15: 1303063975
+      motion_1001_pirate_king_luffy_0001_13: 318442153
+      motion_1001_pirate_king_luffy_0001_23: 961665899
+      motion_1001_pirate_king_luffy_0001_27: 389551940
+      motion_1001_pirate_king_luffy_0001_24: -795644641
+      motion_1001_pirate_king_luffy_0001_2: 1289734412
+      motion_1001_pirate_king_luffy_0001_21: 1993310398
+      motion_1001_pirate_king_luffy_0001_33: -481655933
+      motion_1001_pirate_king_luffy_0001_3: -1641699648
+      motion_1001_pirate_king_luffy_0001_22: -2120012139
+      motion_1001_pirate_king_luffy_0001_9: 608869081
+      motion_1001_pirate_king_luffy_0001_6: -1132370165
+      motion_1001_pirate_king_luffy_0001_19: -2003918151
+      motion_1001_pirate_king_luffy_0001_25: 1520328735
+      motion_1001_pirate_king_luffy_0001_1: 2110393860
+      motion_1001_pirate_king_luffy_0001_34: -1700314815
+      motion_1001_pirate_king_luffy_0001_32: 687870290
+      motion_1001_pirate_king_luffy_0001_4: -276760209
+      motion_1001_pirate_king_luffy_0001_11: -1480043472
+      motion_1001_pirate_king_luffy_0001_14: 1135536718
+      motion_1001_pirate_king_luffy_0001_28: 789448943
+      motion_1001_pirate_king_luffy_0001_16: -833588505
+      motion_1001_pirate_king_luffy_0001_18: -1222826752
+      motion_1001_pirate_king_luffy_0001_26: -2114593957
+      motion_1001_pirate_king_luffy_0001_17: -1950334908
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

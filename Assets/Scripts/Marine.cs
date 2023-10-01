@@ -7,7 +7,7 @@ public class Marine : Character
     public bool isAdmiral_;
 
     // Start is called before the first frame update
-    public Marine(int renown,bool isAdmiral, int atk, int def, float speed, float critChance, ClassType classType) : base(atk,def,speed,critChance,classType){
+    public Marine(int renown,bool isAdmiral,int health, int atk, int def, float speed, float critChance, ClassType classType) : base(health,atk,def,speed,critChance,classType){
         renown_ = renown;
         isAdmiral_ =  isAdmiral;
         unitType_ = 1;
