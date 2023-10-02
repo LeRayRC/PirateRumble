@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 4f7c54dcd5732a34ba2cabc24f1c2c6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8143086302870855997
+    second: motion_0315_garp_reverse_0001_0
+  - first:
+      213: 8562709963379700349
+    second: motion_0315_garp_reverse_0001_1
+  - first:
+      213: 5810834980756970325
+    second: motion_0315_garp_reverse_0001_2
+  - first:
+      213: 1343713435297721690
+    second: motion_0315_garp_reverse_0001_3
+  - first:
+      213: 5445150325044530525
+    second: motion_0315_garp_reverse_0001_4
+  - first:
+      213: 1186776350734332207
+    second: motion_0315_garp_reverse_0001_5
+  - first:
+      213: 5504956721433991619
+    second: motion_0315_garp_reverse_0001_6
+  - first:
+      213: 2170197299476778568
+    second: motion_0315_garp_reverse_0001_7
+  - first:
+      213: 1320418039885035545
+    second: motion_0315_garp_reverse_0001_8
+  - first:
+      213: 4620576381759684712
+    second: motion_0315_garp_reverse_0001_9
+  - first:
+      213: -1699656538131324978
+    second: motion_0315_garp_reverse_0001_10
+  - first:
+      213: 8389717412230703680
+    second: motion_0315_garp_reverse_0001_11
+  - first:
+      213: 6331940319653564803
+    second: motion_0315_garp_reverse_0001_12
+  - first:
+      213: -1678739216111110389
+    second: motion_0315_garp_reverse_0001_13
+  - first:
+      213: 2416643370006126981
+    second: motion_0315_garp_reverse_0001_14
+  - first:
+      213: -2006639024497814343
+    second: motion_0315_garp_reverse_0001_15
+  - first:
+      213: -5405919142205403615
+    second: motion_0315_garp_reverse_0001_16
+  - first:
+      213: 3115501566356385851
+    second: motion_0315_garp_reverse_0001_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 777
+        width: 123
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3167f939dd020170800000000000000
+      internalID: 8143086302870855997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 777
+        width: 123
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f1f1385bd4d670800000000000000
+      internalID: 8562709963379700349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 777
+        width: 124
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bde6cb0ab34a050800000000000000
+      internalID: 5810834980756970325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 777
+        width: 132
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d27d60044d5a210800000000000000
+      internalID: 1343713435297721690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 777
+        width: 133
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc1e8fe5f019b40800000000000000
+      internalID: 5445150325044530525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 777
+        width: 124
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ba5d9dc6487010800000000000000
+      internalID: 1186776350734332207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 919
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d8fcb8f8856c40800000000000000
+      internalID: 5504956721433991619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e43d712f61e1e10800000000000000
+      internalID: 2170197299476778568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 610
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187d5e1631135210800000000000000
+      internalID: 1320418039885035545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 583
+        width: 201
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86088540db59f1040800000000000000
+      internalID: 4620576381759684712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 557
+        width: 165
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf138c326b9968e0800000000000000
+      internalID: -1699656538131324978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 576
+        width: 173
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aabe929834e6470800000000000000
+      internalID: 8389717412230703680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 147
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819ce33c229fd750800000000000000
+      internalID: 6331940319653564803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 352
+        width: 153
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07fd29c39be3b8e0800000000000000
+      internalID: -1678739216111110389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 352
+        width: 220
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a4025754a98120800000000000000
+      internalID: 2416643370006126981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 363
+        width: 204
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41f58507cf624e0800000000000000
+      internalID: -2006639024497814343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 360
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ecc549e215af4b0800000000000000
+      internalID: -5405919142205403615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0315_garp_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 267
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3078dffa2c7c3b20800000000000000
+      internalID: 3115501566356385851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

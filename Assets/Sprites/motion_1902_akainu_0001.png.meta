@@ -1,0 +1,2100 @@
+fileFormatVersion: 2
+guid: 6e816263db9615a4e94ac1a9725b3e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7780847883032365216
+    second: motion_1902_akainu_0001_0
+  - first:
+      213: -695618791522404466
+    second: motion_1902_akainu_0001_1
+  - first:
+      213: -5654792138451158329
+    second: motion_1902_akainu_0001_2
+  - first:
+      213: 8380588441899628552
+    second: motion_1902_akainu_0001_3
+  - first:
+      213: 6072301097964485194
+    second: motion_1902_akainu_0001_4
+  - first:
+      213: -904738369200304543
+    second: motion_1902_akainu_0001_5
+  - first:
+      213: -8691001496221012584
+    second: motion_1902_akainu_0001_6
+  - first:
+      213: 891755434419199672
+    second: motion_1902_akainu_0001_7
+  - first:
+      213: 6769605141777842274
+    second: motion_1902_akainu_0001_8
+  - first:
+      213: 2760010875394014891
+    second: motion_1902_akainu_0001_9
+  - first:
+      213: -7634595656189640998
+    second: motion_1902_akainu_0001_10
+  - first:
+      213: -5072249943036046220
+    second: motion_1902_akainu_0001_11
+  - first:
+      213: -2447026735809966839
+    second: motion_1902_akainu_0001_12
+  - first:
+      213: -5714478315026963311
+    second: motion_1902_akainu_0001_13
+  - first:
+      213: 6772564771820139012
+    second: motion_1902_akainu_0001_14
+  - first:
+      213: -8763904429481533437
+    second: motion_1902_akainu_0001_15
+  - first:
+      213: -994222157327206367
+    second: motion_1902_akainu_0001_16
+  - first:
+      213: -6268100568992145921
+    second: motion_1902_akainu_0001_17
+  - first:
+      213: -6554190881623826319
+    second: motion_1902_akainu_0001_18
+  - first:
+      213: -9522658647849604
+    second: motion_1902_akainu_0001_19
+  - first:
+      213: 4456262513729661611
+    second: motion_1902_akainu_0001_20
+  - first:
+      213: 2928482133244122951
+    second: motion_1902_akainu_0001_21
+  - first:
+      213: 2484038730180560773
+    second: motion_1902_akainu_0001_22
+  - first:
+      213: -7337492108335502559
+    second: motion_1902_akainu_0001_23
+  - first:
+      213: -3995847447251114627
+    second: motion_1902_akainu_0001_24
+  - first:
+      213: -8123719676546849318
+    second: motion_1902_akainu_0001_25
+  - first:
+      213: -7582233736811724261
+    second: motion_1902_akainu_0001_26
+  - first:
+      213: 5051446339268617072
+    second: motion_1902_akainu_0001_27
+  - first:
+      213: -8623126080573963292
+    second: motion_1902_akainu_0001_28
+  - first:
+      213: -9079826802086470692
+    second: motion_1902_akainu_0001_29
+  - first:
+      213: -8086095997875817874
+    second: motion_1902_akainu_0001_30
+  - first:
+      213: 7737498617056559841
+    second: motion_1902_akainu_0001_31
+  - first:
+      213: -2172230774894070230
+    second: motion_1902_akainu_0001_32
+  - first:
+      213: -4526578740094603507
+    second: motion_1902_akainu_0001_33
+  - first:
+      213: 7034675007525110422
+    second: motion_1902_akainu_0001_34
+  - first:
+      213: 8788452622255977139
+    second: motion_1902_akainu_0001_35
+  - first:
+      213: 2663818109475948301
+    second: motion_1902_akainu_0001_36
+  - first:
+      213: 4427546621198696882
+    second: motion_1902_akainu_0001_37
+  - first:
+      213: -1506815521296857424
+    second: motion_1902_akainu_0001_38
+  - first:
+      213: -4974813984329870367
+    second: motion_1902_akainu_0001_39
+  - first:
+      213: -1789967355799606916
+    second: motion_1902_akainu_0001_40
+  - first:
+      213: -6250173727377958629
+    second: motion_1902_akainu_0001_41
+  - first:
+      213: 804011092706083106
+    second: motion_1902_akainu_0001_42
+  - first:
+      213: -1663341856068568021
+    second: motion_1902_akainu_0001_43
+  - first:
+      213: 766711141814995951
+    second: motion_1902_akainu_0001_44
+  - first:
+      213: -6003587577984271523
+    second: motion_1902_akainu_0001_45
+  - first:
+      213: 6354354459098333927
+    second: motion_1902_akainu_0001_46
+  - first:
+      213: 6703798577788143211
+    second: motion_1902_akainu_0001_47
+  - first:
+      213: -3815745166721367272
+    second: motion_1902_akainu_0001_48
+  - first:
+      213: 7089680358368104254
+    second: motion_1902_akainu_0001_49
+  - first:
+      213: -4062817487702879904
+    second: motion_1902_akainu_0001_50
+  - first:
+      213: -3788580913687156363
+    second: motion_1902_akainu_0001_51
+  - first:
+      213: -6399232099136971054
+    second: motion_1902_akainu_0001_52
+  - first:
+      213: -4821003377343188007
+    second: motion_1902_akainu_0001_53
+  - first:
+      213: -6665215005946536689
+    second: motion_1902_akainu_0001_54
+  - first:
+      213: -3503883764344025830
+    second: motion_1902_akainu_0001_55
+  - first:
+      213: 1347110316667486511
+    second: motion_1902_akainu_0001_56
+  - first:
+      213: -7988296968810609864
+    second: motion_1902_akainu_0001_57
+  - first:
+      213: -8003383859214453167
+    second: motion_1902_akainu_0001_58
+  - first:
+      213: 268863484832683079
+    second: motion_1902_akainu_0001_59
+  - first:
+      213: -1604216447489376496
+    second: motion_1902_akainu_0001_60
+  - first:
+      213: 229749319081636329
+    second: motion_1902_akainu_0001_61
+  - first:
+      213: -2653016625354994657
+    second: motion_1902_akainu_0001_62
+  - first:
+      213: -3757655451863800650
+    second: motion_1902_akainu_0001_63
+  - first:
+      213: 8368969301552843360
+    second: motion_1902_akainu_0001_64
+  - first:
+      213: -5869362613894651998
+    second: motion_1902_akainu_0001_65
+  - first:
+      213: -3999526845363077927
+    second: motion_1902_akainu_0001_66
+  - first:
+      213: -2534988036580319744
+    second: motion_1902_akainu_0001_67
+  - first:
+      213: 3949242320517771056
+    second: motion_1902_akainu_0001_68
+  - first:
+      213: 3881933222573337668
+    second: motion_1902_akainu_0001_69
+  - first:
+      213: -6121321756290609348
+    second: motion_1902_akainu_0001_70
+  - first:
+      213: -1085248240176624819
+    second: motion_1902_akainu_0001_71
+  - first:
+      213: 4846843130159801169
+    second: motion_1902_akainu_0001_72
+  - first:
+      213: -3757600236820211434
+    second: motion_1902_akainu_0001_73
+  - first:
+      213: -5375021325576877397
+    second: motion_1902_akainu_0001_74
+  - first:
+      213: 198598525389361658
+    second: motion_1902_akainu_0001_75
+  - first:
+      213: 8430429255859387896
+    second: motion_1902_akainu_0001_76
+  - first:
+      213: -3626450499857100370
+    second: motion_1902_akainu_0001_77
+  - first:
+      213: 8570413283621350622
+    second: motion_1902_akainu_0001_78
+  - first:
+      213: -2818335453102836595
+    second: motion_1902_akainu_0001_79
+  - first:
+      213: -922143234494248666
+    second: motion_1902_akainu_0001_80
+  - first:
+      213: 6211991249666379273
+    second: motion_1902_akainu_0001_81
+  - first:
+      213: -2282657238493906498
+    second: motion_1902_akainu_0001_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 820
+        width: 124
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06771883310e40490800000000000000
+      internalID: -7780847883032365216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 820
+        width: 119
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e877838056aa856f0800000000000000
+      internalID: -695618791522404466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 820
+        width: 123
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca72fca2842681b0800000000000000
+      internalID: -5654792138451158329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 820
+        width: 124
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808fb2029c4dd4470800000000000000
+      internalID: 8380588441899628552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 820
+        width: 129
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a33691da5254450800000000000000
+      internalID: 6072301097964485194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 820
+        width: 126
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e46292f39b173f0800000000000000
+      internalID: -904738369200304543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 610
+        width: 153
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dab53af2c536780800000000000000
+      internalID: -8691001496221012584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 610
+        width: 199
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9417c7d6206c00800000000000000
+      internalID: 891755434419199672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 744
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2608351720872fd50800000000000000
+      internalID: 6769605141777842274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 771
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae331c94478d4620800000000000000
+      internalID: 2760010875394014891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_10
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 708
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade731553b77c0690800000000000000
+      internalID: -7634595656189640998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 761
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474575dfc8fbb99b0800000000000000
+      internalID: -5072249943036046220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 704
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc920162a6a0ed0800000000000000
+      internalID: -2447026735809966839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 610
+        width: 162
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942524cf3812b0b0800000000000000
+      internalID: -5714478315026963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 610
+        width: 165
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f9a207cbfcfd50800000000000000
+      internalID: 6772564771820139012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_15
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 705
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300e743ca5b506680800000000000000
+      internalID: -8763904429481533437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_16
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 634
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12870bc2730d332f0800000000000000
+      internalID: -994222157327206367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_17
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 618
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9cc80ebb3309a0800000000000000
+      internalID: -6268100568992145921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_18
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 567
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17025b66e16da05a0800000000000000
+      internalID: -6554190881623826319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_19
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 576
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754af1413b2edff0800000000000000
+      internalID: -9522658647849604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_20
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 561
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaeebc5523d7dd30800000000000000
+      internalID: 4456262513729661611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 401
+        width: 138
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74718130cfe04a820800000000000000
+      internalID: 2928482133244122951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_22
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 487
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58789b86014197220800000000000000
+      internalID: 2484038730180560773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 543
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b2e6c9dcdfb2a90800000000000000
+      internalID: -7337492108335502559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_24
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 478
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7522f9eae5eb88c0800000000000000
+      internalID: -3995847447251114627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_25
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 544
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e298deffb24f80800000000000000
+      internalID: -8123719676546849318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 531
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ca59b69e76c690800000000000000
+      internalID: -7582233736811724261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_27
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 522
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073ad0e8ea75a1640800000000000000
+      internalID: 5051446339268617072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_28
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 546
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38bf95480845880800000000000000
+      internalID: -8623126080573963292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 403
+        width: 230
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb909761a9fdf180800000000000000
+      internalID: -9079826802086470692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 506
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6277ea288a68cf80800000000000000
+      internalID: -8086095997875817874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 516
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28bb74ffd116b60800000000000000
+      internalID: 7737498617056559841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_32
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 500
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2674448e9faad1e0800000000000000
+      internalID: -2172230774894070230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_33
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 514
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f63d46e9c5e21c0800000000000000
+      internalID: -4526578740094603507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_34
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 482
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924ad5e5af20a160800000000000000
+      internalID: 7034675007525110422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_35
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 498
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2fae2c81bd6f970800000000000000
+      internalID: 8788452622255977139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 510
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0701910578c7f420800000000000000
+      internalID: 2663818109475948301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 494
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1870f913ec17d30800000000000000
+      internalID: 4427546621198696882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 465
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64e0f4447b61be0800000000000000
+      internalID: -1506815521296857424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 492
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35f58f909e5fab0800000000000000
+      internalID: -4974813984329870367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 453
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79e40e6c22c827e0800000000000000
+      internalID: -1789967355799606916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_41
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 486
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19582b1c1ce249a0800000000000000
+      internalID: -6250173727377958629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_42
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 482
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221483834db682b00800000000000000
+      internalID: 804011092706083106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 482
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7ef8056f9ae8e0800000000000000
+      internalID: -1663341856068568021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 481
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8735a8b7e3aa00800000000000000
+      internalID: 766711141814995951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_45
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 460
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bbc4cf7e8feaca0800000000000000
+      internalID: -6003587577984271523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_46
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 476
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c977b6b33f2850800000000000000
+      internalID: 6354354459098333927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 471
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c4dac94da80d50800000000000000
+      internalID: 6703798577788143211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 475
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c820dcffbb0bc0800000000000000
+      internalID: -3815745166721367272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_49
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 474
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f489329ba936260800000000000000
+      internalID: 7089680358368104254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_50
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 416
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061993a4509fd97c0800000000000000
+      internalID: -4062817487702879904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 455
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792ad45bb14c6bc0800000000000000
+      internalID: -3788580913687156363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_52
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 450
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ded9a77f4c5137a0800000000000000
+      internalID: -6399232099136971054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_53
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 435
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3308898fa581db0800000000000000
+      internalID: -4821003377343188007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_54
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 440
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d14f214466083a0800000000000000
+      internalID: -6665215005946536689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_55
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 432
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d040cd744bf5fc0800000000000000
+      internalID: -3503883764344025830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_56
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 418
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ca3a12b5e1b210800000000000000
+      internalID: 1347110316667486511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_57
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 415
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c6bd0b3ed32190800000000000000
+      internalID: -7988296968810609864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_58
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567d66a8c44ee090800000000000000
+      internalID: -8003383859214453167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_59
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 420
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744968a3ae13bb300800000000000000
+      internalID: 268863484832683079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_60
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 391
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7e88f3adacb9e0800000000000000
+      internalID: -1604216447489376496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_61
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1bf37d9cb303300800000000000000
+      internalID: 229749319081636329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 390
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c828e7f679e2bd0800000000000000
+      internalID: -2653016625354994657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_63
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 388
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4295386402adbc0800000000000000
+      internalID: -3757655451863800650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_64
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 375
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ac4333d3d842470800000000000000
+      internalID: 8368969301552843360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_65
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 193
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd9d4ccc5db8ea0800000000000000
+      internalID: -5869362613894651998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 254
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcbe784683de78c0800000000000000
+      internalID: -3999526845363077927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed3c9cfc9e1dcd0800000000000000
+      internalID: -2534988036580319744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_68
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 251
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa66e67f68ec630800000000000000
+      internalID: 3949242320517771056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 242
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6545d2b56fd530800000000000000
+      internalID: 3881933222573337668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_70
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 238
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8d687b42bc0ba0800000000000000
+      internalID: -6121321756290609348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 134
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b8727b97c60f0f0800000000000000
+      internalID: -1085248240176624819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 19
+        width: 120
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153a73fa522734340800000000000000
+      internalID: 4846843130159801169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_73
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 25
+        width: 178
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61958644e725adbc0800000000000000
+      internalID: -3757600236820211434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_74
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 26
+        width: 202
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa47dc15961865b0800000000000000
+      internalID: -5375021325576877397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_75
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 157
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1dfbe7e4091c200800000000000000
+      internalID: 198598525389361658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_76
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 137
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3f8bedb6eef470800000000000000
+      internalID: 8430429255859387896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_77
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1da70fb724cadc0800000000000000
+      internalID: -3626450499857100370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_78
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 85
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2a84397930f670800000000000000
+      internalID: 8570413283621350622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_79
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 91
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847aeb66d243e8d0800000000000000
+      internalID: -2818335453102836595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_80
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 77
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629c0fb2d93e333f0800000000000000
+      internalID: -922143234494248666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_81
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 68
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0338012d653650800000000000000
+      internalID: 6211991249666379273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1902_akainu_0001_82
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 12
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b89be55f5250e0800000000000000
+      internalID: -2282657238493906498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

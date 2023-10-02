@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 6ec2b15ad80f6f24e9ba9bf497a97c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6268403203430121415
+    second: motion_11362_sogeking_0001_0
+  - first:
+      213: 1847280591594710734
+    second: motion_11362_sogeking_0001_1
+  - first:
+      213: 4079586931012607716
+    second: motion_11362_sogeking_0001_2
+  - first:
+      213: 8916961876095958030
+    second: motion_11362_sogeking_0001_3
+  - first:
+      213: 409003877023656550
+    second: motion_11362_sogeking_0001_4
+  - first:
+      213: -2111788470001287474
+    second: motion_11362_sogeking_0001_5
+  - first:
+      213: 1278396477782671342
+    second: motion_11362_sogeking_0001_6
+  - first:
+      213: 2302896332049902889
+    second: motion_11362_sogeking_0001_7
+  - first:
+      213: 2370525673648601348
+    second: motion_11362_sogeking_0001_8
+  - first:
+      213: 6213624122475505804
+    second: motion_11362_sogeking_0001_9
+  - first:
+      213: 5480800247447076102
+    second: motion_11362_sogeking_0001_10
+  - first:
+      213: 5025909578487943464
+    second: motion_11362_sogeking_0001_11
+  - first:
+      213: -8618254673969385589
+    second: motion_11362_sogeking_0001_12
+  - first:
+      213: 8982314230587002769
+    second: motion_11362_sogeking_0001_13
+  - first:
+      213: -2875695524117309700
+    second: motion_11362_sogeking_0001_14
+  - first:
+      213: 1723055337776728183
+    second: motion_11362_sogeking_0001_15
+  - first:
+      213: 5588413823424998484
+    second: motion_11362_sogeking_0001_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 795
+        width: 173
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93080a67f782209a0800000000000000
+      internalID: -6268403203430121415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 795
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e97629ebd2a910800000000000000
+      internalID: 1847280591594710734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 795
+        width: 180
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee155df2ba9d9830800000000000000
+      internalID: 4079586931012607716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 795
+        width: 173
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c766c05996fbb70800000000000000
+      internalID: 8916961876095958030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 970
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa0c1fbd21da500800000000000000
+      internalID: 409003877023656550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 563
+        width: 181
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebec4439b61b2e0800000000000000
+      internalID: -2111788470001287474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 563
+        width: 217
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb854c2d6cdb110800000000000000
+      internalID: 1278396477782671342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 563
+        width: 209
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6262430885ff10800000000000000
+      internalID: 2302896332049902889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 563
+        width: 210
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b4c46a8cc5e020800000000000000
+      internalID: 2370525673648601348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 331
+        width: 209
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8863fbd73a3b3650800000000000000
+      internalID: 6213624122475505804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 331
+        width: 187
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db4f959c6bf0c40800000000000000
+      internalID: 5480800247447076102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 331
+        width: 185
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d10b122e9fb540800000000000000
+      internalID: 5025909578487943464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 331
+        width: 180
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6436190fc56880800000000000000
+      internalID: -8618254673969385589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f031fc33797ac70800000000000000
+      internalID: 8982314230587002769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 160
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf69eca282a7718d0800000000000000
+      internalID: -2875695524117309700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 140
+        width: 165
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c58853b589e710800000000000000
+      internalID: 1723055337776728183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11362_sogeking_0001_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 100
+        width: 189
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c212383c80e8d40800000000000000
+      internalID: 5588413823424998484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

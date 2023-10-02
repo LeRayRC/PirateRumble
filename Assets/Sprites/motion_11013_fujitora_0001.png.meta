@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 0f38a7442c5c60d40b8aae436283998f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4677577289849342395
+    second: motion_11013_fujitora_0001_0
+  - first:
+      213: 2207058073532021326
+    second: motion_11013_fujitora_0001_1
+  - first:
+      213: -5456730352207164528
+    second: motion_11013_fujitora_0001_2
+  - first:
+      213: -3348727664709961816
+    second: motion_11013_fujitora_0001_3
+  - first:
+      213: 2937754761059243338
+    second: motion_11013_fujitora_0001_4
+  - first:
+      213: -6054370501406622093
+    second: motion_11013_fujitora_0001_5
+  - first:
+      213: -2254354230340553608
+    second: motion_11013_fujitora_0001_6
+  - first:
+      213: 5924238822532432642
+    second: motion_11013_fujitora_0001_7
+  - first:
+      213: -1610542334161629276
+    second: motion_11013_fujitora_0001_8
+  - first:
+      213: 7530590485869240174
+    second: motion_11013_fujitora_0001_9
+  - first:
+      213: 5037859196175135700
+    second: motion_11013_fujitora_0001_10
+  - first:
+      213: -7354950337659265943
+    second: motion_11013_fujitora_0001_11
+  - first:
+      213: 7323519604231451919
+    second: motion_11013_fujitora_0001_12
+  - first:
+      213: -2741969917690944536
+    second: motion_11013_fujitora_0001_13
+  - first:
+      213: -1173746613560306677
+    second: motion_11013_fujitora_0001_14
+  - first:
+      213: -8766381870306186917
+    second: motion_11013_fujitora_0001_15
+  - first:
+      213: -3511877068111691355
+    second: motion_11013_fujitora_0001_16
+  - first:
+      213: 5853433044624889222
+    second: motion_11013_fujitora_0001_17
+  - first:
+      213: 919309263112799020
+    second: motion_11013_fujitora_0001_18
+  - first:
+      213: -5939423720820544720
+    second: motion_11013_fujitora_0001_19
+  - first:
+      213: 4885801900937169769
+    second: motion_11013_fujitora_0001_20
+  - first:
+      213: 5601340377831468273
+    second: motion_11013_fujitora_0001_21
+  - first:
+      213: -5540678466800627735
+    second: motion_11013_fujitora_0001_22
+  - first:
+      213: -5799335299604750308
+    second: motion_11013_fujitora_0001_23
+  - first:
+      213: -5335805119778441864
+    second: motion_11013_fujitora_0001_24
+  - first:
+      213: 2019954435539183972
+    second: motion_11013_fujitora_0001_25
+  - first:
+      213: -6052747854013540201
+    second: motion_11013_fujitora_0001_26
+  - first:
+      213: 6358517383416980313
+    second: motion_11013_fujitora_0001_27
+  - first:
+      213: 6013882270328649351
+    second: motion_11013_fujitora_0001_28
+  - first:
+      213: 29107251356288343
+    second: motion_11013_fujitora_0001_29
+  - first:
+      213: 5175457254144357560
+    second: motion_11013_fujitora_0001_30
+  - first:
+      213: 6780588185795685074
+    second: motion_11013_fujitora_0001_31
+  - first:
+      213: -3991524010978590417
+    second: motion_11013_fujitora_0001_32
+  - first:
+      213: 5633775353247145103
+    second: motion_11013_fujitora_0001_33
+  - first:
+      213: 8768388595245287551
+    second: motion_11013_fujitora_0001_34
+  - first:
+      213: -9051675755148783801
+    second: motion_11013_fujitora_0001_35
+  - first:
+      213: -8459910518821033457
+    second: motion_11013_fujitora_0001_36
+  - first:
+      213: -8611227220343376335
+    second: motion_11013_fujitora_0001_37
+  - first:
+      213: -1421048283595668790
+    second: motion_11013_fujitora_0001_38
+  - first:
+      213: 8439874508022738289
+    second: motion_11013_fujitora_0001_39
+  - first:
+      213: -4929371614837669559
+    second: motion_11013_fujitora_0001_40
+  - first:
+      213: -6229380214670865741
+    second: motion_11013_fujitora_0001_41
+  - first:
+      213: -373205894817624703
+    second: motion_11013_fujitora_0001_42
+  - first:
+      213: 5409114275490985969
+    second: motion_11013_fujitora_0001_43
+  - first:
+      213: -7996724590552046649
+    second: motion_11013_fujitora_0001_44
+  - first:
+      213: 1144907394777692025
+    second: motion_11013_fujitora_0001_45
+  - first:
+      213: -7127374505187906812
+    second: motion_11013_fujitora_0001_46
+  - first:
+      213: -1184964960370617477
+    second: motion_11013_fujitora_0001_47
+  - first:
+      213: 6186227970126324732
+    second: motion_11013_fujitora_0001_48
+  - first:
+      213: -9010625421211752240
+    second: motion_11013_fujitora_0001_49
+  - first:
+      213: -3171753314767714492
+    second: motion_11013_fujitora_0001_50
+  - first:
+      213: 7440286249133766571
+    second: motion_11013_fujitora_0001_51
+  - first:
+      213: 7355657453835249437
+    second: motion_11013_fujitora_0001_52
+  - first:
+      213: 5384079050045113454
+    second: motion_11013_fujitora_0001_53
+  - first:
+      213: 5023836377481223858
+    second: motion_11013_fujitora_0001_54
+  - first:
+      213: -6311599314663221214
+    second: motion_11013_fujitora_0001_55
+  - first:
+      213: -7101235084888831051
+    second: motion_11013_fujitora_0001_56
+  - first:
+      213: 2982241252433725088
+    second: motion_11013_fujitora_0001_57
+  - first:
+      213: -2311831902148715751
+    second: motion_11013_fujitora_0001_58
+  - first:
+      213: 4820365668171292568
+    second: motion_11013_fujitora_0001_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 816
+        width: 171
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546781ddc38e51fb0800000000000000
+      internalID: -4677577289849342395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 816
+        width: 178
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab887df9b01ae10800000000000000
+      internalID: 2207058073532021326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 816
+        width: 179
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8999d7acc544b0800000000000000
+      internalID: -5456730352207164528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 816
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a770776eede681d0800000000000000
+      internalID: -3348727664709961816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 816
+        width: 175
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45162ae36005c820800000000000000
+      internalID: 2937754761059243338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 600
+        width: 175
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37efd0d3b1e8afba0800000000000000
+      internalID: -6054370501406622093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 608
+        width: 182
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f6a685cce6b0e0800000000000000
+      internalID: -2254354230340553608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 624
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203cf9532df173250800000000000000
+      internalID: 5924238822532432642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 660
+        width: 150
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4194b74436a9e0800000000000000
+      internalID: -1610542334161629276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 660
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1c2be528028860800000000000000
+      internalID: 7530590485869240174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 614
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d334784f321ae540800000000000000
+      internalID: 5037859196175135700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 630
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c1e27d2a7fde990800000000000000
+      internalID: -7354950337659265943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 614
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0533d3474e52a560800000000000000
+      internalID: 7323519604231451919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 630
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3693f23e092f9d0800000000000000
+      internalID: -2741969917690944536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 615
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049b6a7ca306bfe0800000000000000
+      internalID: -1173746613560306677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 620
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a9fe922e875680800000000000000
+      internalID: -8766381870306186917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 614
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1cc5cc96e434fc0800000000000000
+      internalID: -3511877068111691355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 607
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685566d57529b3150800000000000000
+      internalID: 5853433044624889222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 608
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23809277ea02cc00800000000000000
+      internalID: 919309263112799020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 597
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b66f5289de29da0800000000000000
+      internalID: -5939423720820544720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 597
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc94c51faddc340800000000000000
+      internalID: 4885801900937169769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 609
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc62be7565fbbd40800000000000000
+      internalID: 5601340377831468273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_22
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 595
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef41bb4a4e8b13b0800000000000000
+      internalID: -5540678466800627735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 604
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ecad654f948fa0800000000000000
+      internalID: -5799335299604750308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 512
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87535ec838963f5b0800000000000000
+      internalID: -5335805119778441864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 512
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469a9c06bd1580c10800000000000000
+      internalID: 2019954435539183972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 590
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d38645e1500ca0800000000000000
+      internalID: -6052747854013540201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 589
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95327b01fddfd3850800000000000000
+      internalID: 6358517383416980313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_28
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 591
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78675fbdf0a957350800000000000000
+      internalID: 6013882270328649351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 597
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ca7114e8676000800000000000000
+      internalID: 29107251356288343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 520
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43e7fa3fae2d740800000000000000
+      internalID: 5175457254144357560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_31
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 570
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daef86a70d791e50800000000000000
+      internalID: 6780588185795685074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_32
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 577
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cd2d5f024b98c0800000000000000
+      internalID: -3991524010978590417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 564
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c95a2b5d03f2e40800000000000000
+      internalID: 5633775353247145103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 589
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788e2078f29fa970800000000000000
+      internalID: 8768388595245287551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 538
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4758cbdcf16280800000000000000
+      internalID: -9051675755148783801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_36
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 560
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae416a43c589a80800000000000000
+      internalID: -8459910518821033457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 578
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363243a776ce7880800000000000000
+      internalID: -8611227220343376335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_38
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 576
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20a977d1c674ce0800000000000000
+      internalID: -1421048283595668790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 528
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de19f0625702570800000000000000
+      internalID: 8439874508022738289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 539
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94105bb12aa579bb0800000000000000
+      internalID: -4929371614837669559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_41
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 560
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba42bd03bbcc89a0800000000000000
+      internalID: -6229380214670865741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d405b473b12daf0800000000000000
+      internalID: -373205894817624703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 158
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7722c56c8011b40800000000000000
+      internalID: 5409114275490985969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_44
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 512
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a3857a5de50190800000000000000
+      internalID: -7996724590552046649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 376
+        width: 131
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773176a53783ef00800000000000000
+      internalID: 1144907394777692025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_46
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 208
+        width: 60
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b691566aa761d90800000000000000
+      internalID: -7127374505187906812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 208
+        width: 56
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7313d195a82e8fe0800000000000000
+      internalID: -1184964960370617477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_48
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 328
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf327f21095e9d550800000000000000
+      internalID: 6186227970126324732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_49
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 312
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a1947be3d3f280800000000000000
+      internalID: -9010625421211752240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 195
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4474a163a2babf3d0800000000000000
+      internalID: -3171753314767714492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 195
+        width: 149
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba777da5ce4314760800000000000000
+      internalID: 7440286249133766571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_52
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 195
+        width: 147
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ed497b7b841660800000000000000
+      internalID: 7355657453835249437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 200
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64cf84be5718ba40800000000000000
+      internalID: 5384079050045113454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_54
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 214
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1471619048b540800000000000000
+      internalID: 5023836377481223858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 166
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22856e41dd1b868a0800000000000000
+      internalID: -6311599314663221214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_56
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 9
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb09a27058537d90800000000000000
+      internalID: -7101235084888831051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_57
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 9
+        width: 214
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a604d55e9c036920800000000000000
+      internalID: 2982241252433725088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_58
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 12
+        width: 207
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b92043229baefd0800000000000000
+      internalID: -2311831902148715751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11013_fujitora_0001_59
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 11
+        width: 187
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f96da290165e240800000000000000
+      internalID: 4820365668171292568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
