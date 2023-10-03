@@ -1,21 +1,8 @@
-// using System.Collections;
-// using System.Collections.Generic;
-// using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting.Antlr3.Runtime.Misc;
+using UnityEngine;
 
-// public class Classes : MonoBehaviour
-// {
-//     // Start is called before the first frame update
-//     void Start()
-//     {
-        
-//     }
-
-//     // Update is called once per frame
-//     void Update()
-//     {
-        
-//     }
-// }
 
 public enum ClassType{
     None,
@@ -23,4 +10,17 @@ public enum ClassType{
     Slasher,
     Figther,
     Elementalist,
+}
+
+public enum UnitType{
+    Pirate = 1,
+    Marine
+}
+[System.Serializable]
+public class Classes : MonoBehaviour{
+    public Character.Stats rangerStats_;
+    public Character.Stats slasherStats_;
+    public Character.Stats elementalistStats_;
+    public Character.Stats figtherStats_;
+
 }

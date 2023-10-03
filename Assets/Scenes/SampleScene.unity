@@ -275,6 +275,7 @@ GameObject:
   - component: {fileID: 180107611}
   - component: {fileID: 180107612}
   - component: {fileID: 180107613}
+  - component: {fileID: 180107610}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -282,6 +283,54 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &180107610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180107609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acca9e456e271e2429ef4ed6090705d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rangerStats_:
+    health_: 70
+    totalHealth_: 70
+    atk_: 20
+    def_: 30
+    speed_: 17
+    critChance_: 0.5
+    critDamageBonus_: 50
+    classType_: 1
+  slasherStats_:
+    health_: 90
+    totalHealth_: 90
+    atk_: 15
+    def_: 50
+    speed_: 25
+    critChance_: 0.3
+    critDamageBonus_: 80
+    classType_: 2
+  elementalistStats_:
+    health_: 50
+    totalHealth_: 50
+    atk_: 30
+    def_: 20
+    speed_: 8
+    critChance_: 0.15
+    critDamageBonus_: 100
+    classType_: 4
+  figtherStats_:
+    health_: 120
+    totalHealth_: 120
+    atk_: 8
+    def_: 80
+    speed_: 12
+    critChance_: 0.8
+    critDamageBonus_: 50
+    classType_: 3
 --- !u!4 &180107611
 Transform:
   m_ObjectHideFlags: 0
@@ -416,44 +465,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e360dbd74511544b4cced901d7effe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPirate_: 0
-  pirate_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    bounty_: 0
-    isEmperor_: 0
-  marine_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    renown_: 0
-    isAdmiral_: 0
-  gc_: {fileID: 180107612}
-  turnTimer_: 0
   charState_: 0
+  character_:
+    isCaptain_: 0
+    stats_:
+      health_: 0
+      totalHealth_: 0
+      atk_: 0
+      def_: 0
+      speed_: 0
+      critChance_: 0
+      critDamageBonus_: 0
+      classType_: 0
+    unitType_: 2
+    initiative_: 0
+    playing_: 0
+    turnTimer_: 0
+  turnTimer_: 0
+  gc_: {fileID: 180107612}
+  selectedEnemy_: 0
   actionBar_: {fileID: 547650081}
   healthBar_: {fileID: 125825534}
   actionBarOffset_: 165
   healthBarOffset_: 125
   cam_: {fileID: 963194227}
-  selectedEnemy_: 0
 --- !u!212 &353602422
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -550,44 +585,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e360dbd74511544b4cced901d7effe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPirate_: 0
-  pirate_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    bounty_: 0
-    isEmperor_: 0
-  marine_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    renown_: 0
-    isAdmiral_: 0
-  gc_: {fileID: 180107612}
-  turnTimer_: 0
   charState_: 0
+  character_:
+    isCaptain_: 0
+    stats_:
+      health_: 0
+      totalHealth_: 0
+      atk_: 0
+      def_: 0
+      speed_: 0
+      critChance_: 0
+      critDamageBonus_: 0
+      classType_: 0
+    unitType_: 2
+    initiative_: 0
+    playing_: 0
+    turnTimer_: 0
+  turnTimer_: 0
+  gc_: {fileID: 180107612}
+  selectedEnemy_: 0
   actionBar_: {fileID: 1518759997}
   healthBar_: {fileID: 1304350331}
   actionBarOffset_: 165
   healthBarOffset_: 125
   cam_: {fileID: 963194227}
-  selectedEnemy_: 0
 --- !u!212 &384073551
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -684,44 +705,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e360dbd74511544b4cced901d7effe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPirate_: 1
-  pirate_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    bounty_: 0
-    isEmperor_: 0
-  marine_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    renown_: 0
-    isAdmiral_: 0
-  gc_: {fileID: 180107612}
-  turnTimer_: 0
   charState_: 0
+  character_:
+    isCaptain_: 0
+    stats_:
+      health_: 0
+      totalHealth_: 0
+      atk_: 0
+      def_: 0
+      speed_: 0
+      critChance_: 0
+      critDamageBonus_: 0
+      classType_: 0
+    unitType_: 1
+    initiative_: 0
+    playing_: 0
+    turnTimer_: 0
+  turnTimer_: 0
+  gc_: {fileID: 180107612}
+  selectedEnemy_: 0
   actionBar_: {fileID: 697998800}
   healthBar_: {fileID: 710014771}
   actionBarOffset_: 165
   healthBarOffset_: 125
   cam_: {fileID: 963194227}
-  selectedEnemy_: 0
 --- !u!212 &492373827
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -993,44 +1000,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e360dbd74511544b4cced901d7effe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPirate_: 0
-  pirate_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    bounty_: 0
-    isEmperor_: 0
-  marine_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    renown_: 0
-    isAdmiral_: 0
-  gc_: {fileID: 180107612}
-  turnTimer_: 0
   charState_: 0
+  character_:
+    isCaptain_: 0
+    stats_:
+      health_: 0
+      totalHealth_: 0
+      atk_: 0
+      def_: 0
+      speed_: 0
+      critChance_: 0
+      critDamageBonus_: 0
+      classType_: 0
+    unitType_: 2
+    initiative_: 0
+    playing_: 0
+    turnTimer_: 0
+  turnTimer_: 0
+  gc_: {fileID: 180107612}
+  selectedEnemy_: 0
   actionBar_: {fileID: 1801167940}
   healthBar_: {fileID: 1039461289}
   actionBarOffset_: 165
   healthBarOffset_: 125
   cam_: {fileID: 963194227}
-  selectedEnemy_: 0
 --- !u!212 &601641729
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1478,44 +1471,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e360dbd74511544b4cced901d7effe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPirate_: 1
-  pirate_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    bounty_: 0
-    isEmperor_: 0
-  marine_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    renown_: 0
-    isAdmiral_: 0
-  gc_: {fileID: 180107612}
-  turnTimer_: 0
   charState_: 0
+  character_:
+    isCaptain_: 0
+    stats_:
+      health_: 0
+      totalHealth_: 0
+      atk_: 0
+      def_: 0
+      speed_: 0
+      critChance_: 0
+      critDamageBonus_: 0
+      classType_: 0
+    unitType_: 1
+    initiative_: 0
+    playing_: 0
+    turnTimer_: 0
+  turnTimer_: 0
+  gc_: {fileID: 180107612}
+  selectedEnemy_: 0
   actionBar_: {fileID: 1622125448}
   healthBar_: {fileID: 1107840212}
   actionBarOffset_: 165
   healthBarOffset_: 125
   cam_: {fileID: 963194227}
-  selectedEnemy_: 0
 --- !u!212 &858765327
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2406,44 +2385,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4e360dbd74511544b4cced901d7effe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPirate_: 1
-  pirate_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    bounty_: 0
-    isEmperor_: 0
-  marine_:
-    health_: 0
-    totalHealth_: 0
-    atk_: 0
-    def_: 0
-    speed_: 0
-    critChance_: 0
-    initiative_: 0
-    classType_: 0
-    unitType_: 0
-    playing_: 0
-    turnTimer_: 0
-    renown_: 0
-    isAdmiral_: 0
-  gc_: {fileID: 180107612}
-  turnTimer_: 0
   charState_: 0
+  character_:
+    isCaptain_: 0
+    stats_:
+      health_: 0
+      totalHealth_: 0
+      atk_: 0
+      def_: 0
+      speed_: 0
+      critChance_: 0
+      critDamageBonus_: 0
+      classType_: 0
+    unitType_: 1
+    initiative_: 0
+    playing_: 0
+    turnTimer_: 0
+  turnTimer_: 0
+  gc_: {fileID: 180107612}
+  selectedEnemy_: 0
   actionBar_: {fileID: 1258633110}
   healthBar_: {fileID: 811767825}
   actionBarOffset_: 165
   healthBarOffset_: 125
   cam_: {fileID: 963194227}
-  selectedEnemy_: 0
 --- !u!212 &2058338977
 SpriteRenderer:
   m_ObjectHideFlags: 0
