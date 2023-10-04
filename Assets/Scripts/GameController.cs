@@ -23,42 +23,42 @@ public class GameController : MonoBehaviour
         //Update Initiatives
         if(!characterPlaying_){
             for(int i=0;i<pirateTeam_.Count;i++){
-                if(pirateTeam_[i].pirate_.initiative_ >= 100 && !characterPlaying_){
+                if(pirateTeam_[i].character_.initiative_ >= 100 && !characterPlaying_){
                     characterPlaying_=true;
-                    pirateTeam_[i].pirate_.playing_ = true;
-                    pirateTeam_[i].pirate_.initiative_ = 0.0f;
+                    pirateTeam_[i].character_.playing_ = true;
+                    pirateTeam_[i].character_.initiative_ = 0.0f;
                     pirateTeam_[i].charState_ = CharacterController.CharacterState.SelectingEnemy;
                     // Debug.Log("Team 1 -  " + pirateTeam_[i].name + " playing");
                     //Communicate that this player is the one playing
                 }else{
-                    pirateTeam_[i].pirate_.initiative_ += pirateTeam_[i].pirate_.speed_ * Time.deltaTime;
+                    pirateTeam_[i].character_.initiative_ += pirateTeam_[i].character_.stats_.speed_ * Time.deltaTime;
                 }
             }
             for(int i=0;i<marineTeam_.Count;i++){
-                if(marineTeam_[i].marine_.initiative_ >= 100 && !characterPlaying_){
+                if(marineTeam_[i].character_.initiative_ >= 100 && !characterPlaying_){
                     characterPlaying_=true;
-                    marineTeam_[i].marine_.initiative_ = 0.0f;
-                    marineTeam_[i].marine_.playing_ = true;
+                    marineTeam_[i].character_.initiative_ = 0.0f;
+                    marineTeam_[i].character_.playing_ = true;
                     marineTeam_[i].charState_ = CharacterController.CharacterState.SelectingEnemy;
                     // Debug.Log("Team 2 " + marineTeam_[i].name +  " playing");
                     //Communicate that this player is the one playing
                 }else{
-                    marineTeam_[i].marine_.initiative_ += marineTeam_[i].marine_.speed_ * Time.deltaTime;
+                    marineTeam_[i].character_.initiative_ += marineTeam_[i].character_.stats_.speed_ * Time.deltaTime;
                 }
             }
         }else{
             //Check for dead characters
             for(int i = marineTeam_.Count - 1; i >= 0; i--){
-                if(marineTeam_[i].marine_.health_ <= 0){
-                    marineTeam_[i].GetComponent<SpriteRenderer>().sprite = UpdateHurtSprite(marineTeam_[i].isPirate_,marineTeam_[i].marine_.classType_);
+                if(marineTeam_[i].character_.stats_.health_ <= 0){
+                    marineTeam_[i].GetComponent<SpriteRenderer>().sprite = UpdateHurtSprite(marineTeam_[i].character_.unitType_,marineTeam_[i].character_.stats_.classType_);
                     marineTeam_.RemoveAt(i);
                     //Update sprite to damaged sprite
                 }
             }
 
             for(int i = pirateTeam_.Count - 1; i >= 0; i--){
-                if(pirateTeam_[i].pirate_.health_ <= 0){
-                    pirateTeam_[i].GetComponent<SpriteRenderer>().sprite = UpdateHurtSprite(pirateTeam_[i].isPirate_,pirateTeam_[i].pirate_.classType_);
+                if(pirateTeam_[i].character_.stats_.health_ <= 0){
+                    pirateTeam_[i].GetComponent<SpriteRenderer>().sprite = UpdateHurtSprite(pirateTeam_[i].character_.unitType_,pirateTeam_[i].character_.stats_.classType_);
                     pirateTeam_.RemoveAt(i);
                     //Update sprite to damaged sprite
                 }
@@ -66,32 +66,32 @@ public class GameController : MonoBehaviour
         }
     }
 
-    Sprite UpdateHurtSprite(bool isPirate, ClassType classType){
+    Sprite UpdateHurtSprite(UnitType unitType, ClassType classType){
         Sprite spriteToReturn_ = spriteSelector_.pirateRangerHurt;
         switch(classType){
             case ClassType.Ranger:
-                if(isPirate){
+                if(unitType == UnitType.Pirate){
                     spriteToReturn_ =spriteSelector_.pirateRangerHurt;
                 }else{
                     spriteToReturn_ = spriteSelector_.marineRangerHurt;
                 }
                 break;
             case ClassType.Figther:
-                if(isPirate){
+                if(unitType == UnitType.Pirate){
                     spriteToReturn_ = spriteSelector_.pirateFigtherHurt;
                 }else{
                     spriteToReturn_ = spriteSelector_.marineFigtherHurt;
                 }
                 break;
             case ClassType.Elementalist:
-                if(isPirate){
+                if(unitType == UnitType.Pirate){
                     spriteToReturn_ =spriteSelector_.pirateElementalistHurt;
                 }else{
                     spriteToReturn_ = spriteSelector_.marineElementalistHurt;
                 }
                 break;
             case ClassType.Slasher:
-                if(isPirate){
+                if(unitType == UnitType.Pirate){
                     spriteToReturn_ =spriteSelector_.pirateSlasherHurt;
                 }else{
                     spriteToReturn_ = spriteSelector_.marineSlasherHurt;
